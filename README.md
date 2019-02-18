@@ -13,10 +13,12 @@
 
 ### server/index.js
 * This is the starting point of the server, put all code here
-* Make your app listen to port 3001
+* Make your app listen to port 3001 
+// Done
 
 ### Body
 * Add body parser middleware to express
+// Done
 
 ### Create express routes to get all things
 * Add .get() routes for /contacts, /vehicles, /comments, /products
